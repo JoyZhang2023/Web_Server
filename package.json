@@ -1,0 +1,23 @@
+{
+  "name": "webserver",
+  "version": "1.0.0",
+  "description": "simple webserver",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "init"
+  ],
+  "author": "Xinran Zhang",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
