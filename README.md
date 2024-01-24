@@ -11,5 +11,6 @@ When you visit Localhost:3000/ , you will see page below.
 Screenshot HelloWorld.png
 
 When you visit Localhost:3000/about, you will see page below.
+Screenshot AboutPage.png
 
 When you visit other path, such as Localhost:3000/aboutjfk, you will see page below.
