@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/JoyZhang2023/Web_Server.git"
   },
   "type": "module",
   "scripts": {
